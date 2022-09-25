@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+![alt text](https://raw.githubusercontent.com/Shoaib-Naseer/React-Redux-Contacts-list-App/main/screenshots/screencapture-localhost-3000-2022-09-25-13_13_40.png)
+![alt text](https://raw.githubusercontent.com/Shoaib-Naseer/React-Redux-Contacts-list-App/main/screenshots/screencapture-localhost-3000-edit-0-2022-09-25-13_18_03.png)
 ## Available Scripts
 
 In the project directory, you can run:
